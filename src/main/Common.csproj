@@ -2,21 +2,21 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <AssemblyName>ei8.Data.ExternalReference.Common</AssemblyName>
-    <RootNamespace>ei8.Data.ExternalReference.Common</RootNamespace>
-    <PackageId>ei8.Data.ExternalReference.Common</PackageId>
+    <AssemblyName>ei8.Data.Mirror.Common</AssemblyName>
+    <RootNamespace>ei8.Data.Mirror.Common</RootNamespace>
+    <PackageId>ei8.Data.Mirror.Common</PackageId>
     <PackageVersion>0.1.4</PackageVersion>
     <Authors>Elmer Roderick Niem Bool</Authors>
-    <Description>ei8 Data External Reference Common</Description>
+    <Description>ei8 Data Mirror Common</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageReleaseNotes>Initial.</PackageReleaseNotes>
-    <PackageTags>ei8 Data External Reference Common</PackageTags>
+    <PackageTags>ei8 Data Mirror Common</PackageTags>
     <Version>0.1.4</Version>
     <PackageLicenseUrl>https://www.apache.org/licenses/LICENSE-2.0</PackageLicenseUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
-    <DocumentationFile>bin\Release\netstandard2.0\ei8.Data.ExternalReference.Common.xml</DocumentationFile>
+    <DocumentationFile>bin\Release\netstandard2.0\ei8.Data.Mirror.Common.xml</DocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
