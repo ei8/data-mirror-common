@@ -8,7 +8,7 @@
             "type": "shell",
             "command": "msbuild",
             "args": [
-                "src\\ei8-Data-External-Reference-Common-Master.sln",
+                "src\\ei8-Data-Mirror-Common-Master.sln",
                 "/p:Configuration=Release",
                 "/t:pack",
                 // Do not generate summary otherwise it leads to duplicate errors in Problems panel
