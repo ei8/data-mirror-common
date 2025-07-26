@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ei8.Data.ExternalReference.Common
+namespace ei8.Data.Mirror.Common
 {
     public class ItemData
     {
