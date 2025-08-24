@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ei8.Data.Mirror.Common
+﻿namespace ei8.Data.Mirror.Common
 {
     public class ItemData
     {
